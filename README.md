@@ -29,7 +29,7 @@ by Kohaku Nagadzima (X1r0s)
 
 1. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/ваш_пользователь/ваш_репозиторий.git
+   git clone https://github.com/X1r0s/booksLibrary_bdSQL.git
    ```
 2. Перейдите в папку проекта:
    ```bash
